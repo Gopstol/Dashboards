@@ -16,6 +16,7 @@
       <img src="ROMI-center-demo-dashboard/images/romi-dashboard-preview1.png" width="800" alt="Скриншот дашборда 1">
         <img src="ROMI-center-demo-dashboard/images/romi-dashboard-preview2.png" width="800" alt="Скриншот дашборда 1">
     </p>
+* [Репозиторий](https://github.com/Gopstol/Dashboards/blob/main/ROMI-center-demo-dashboard/README.md)
 
 ---
 
