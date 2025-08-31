@@ -14,7 +14,7 @@
 *   **Основные выводы:** Дашборд показал высокую эффективность (средний ROAS 968%) рекламных кампаний. Наибольшую эффективность показала реклама Вконтакте (ROAS 1509%).
 *   **Скриншот:**
     <p align="center">
-      <img src="images/dashboard-1-preview.png" width="800" alt="Скриншот дашборда 1">
+      <img src="ROMI-center-demo-dashboard/images/romi-dashboard-preview1.png" width="800" alt="Скриншот дашборда 1">
     </p>
 
 ---
