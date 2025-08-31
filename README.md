@@ -25,4 +25,4 @@
 Если у вас есть вопросы или предложения:
 
 *   **Email:** tsarkov.d.s@gmail.com
-*   **Telegram:** @gopchansky
+*   **Telegram:** [@gopchansky](https://t.me/gopchansky)
